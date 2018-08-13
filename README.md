@@ -6,6 +6,8 @@
 # Color Picker Application Using React.js
 This is a simple side-project application built in terms of practicing react.js knowledge and sharpening javascript skills.
 
+![App Image](http://res.cloudinary.com/pomegranitedesign/image/upload/q_auto:best/v1534187823/Untitled_x6l2sn.png)
+
 ## Usage
 1. Click On The Color On The Card
 2. Choose The Desired Color
