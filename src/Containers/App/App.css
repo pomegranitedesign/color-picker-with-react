@@ -1,0 +1,11 @@
+/* App */
+.App {
+}
+/* App End */
+
+/* Main Container */
+.MainContainer {
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
+/* Main Container End */

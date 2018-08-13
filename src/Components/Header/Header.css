@@ -1,0 +1,23 @@
+/* Header Component */
+.Header {
+  display: flex;
+  align-items: center;
+  
+  width: 100%;
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.Header__Title {
+  font-size: 3.3em;
+
+  margin-right: 10px;
+
+  cursor: default;
+}
+
+.Header__Logo {
+  height: 50px;
+}
+/* Header Component End */

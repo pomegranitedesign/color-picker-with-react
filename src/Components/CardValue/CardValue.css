@@ -1,0 +1,14 @@
+.Card__Value {
+  font-size: 4em;
+  font-weight: 900;
+
+  background-color: white;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: #2f3542;
+
+  cursor: pointer;
+}
