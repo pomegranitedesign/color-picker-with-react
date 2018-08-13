@@ -2,6 +2,10 @@
   "name": "color-picker-using-react",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/pomegranitedesign/color-picker-with-react"
+  },
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.4.2",
